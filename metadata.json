@@ -1,0 +1,6 @@
+{
+  "name": "ShreePins",
+  "description": "Discover, search, save, and download inspiring images with ShreePins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
